@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RoomTestApp</string>
+    <string name="no_data">no data</string>
+    <string name="no_data_description">\"\"</string>
+</resources>
